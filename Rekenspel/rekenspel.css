@@ -1,0 +1,27 @@
+
+body {
+	background-color: #F1F1F1;
+}
+
+body #wrapper {
+	border: 1px solid black;
+	border-radius: 12px;
+	box-shadow: 0px 5px 50px #000;
+	width: 250px;
+	height: 500px;
+	margin-top: 180px;
+	margin-left: 660px;
+	background-color: #FFFFFF;
+	padding: 30px;
+	font-size: 30px;
+	font-family: Helvetica;
+	text-align: center;
+}
+
+body #wrapper input {
+	font-size: 20px;
+}
+
+body #wrapper #feedback {
+	width: 200px;
+}
